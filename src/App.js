@@ -22,7 +22,7 @@ class App extends Component {
     this.state.cards.forEach(card => {
       card.count = 0;
     });
-    alert(`Game Over :( \nscore: ${this.state.score}`);
+    alert(`GAME OVER!! \nYou chose....poorly \nscore: ${this.state.score}`);
     this.setState({score: 0});
     return true;
   }
