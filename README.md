@@ -3,6 +3,7 @@
 
 # Live App:
 Check out the app on Heroku here:
+https://aqueous-taiga-55193.herokuapp.com/
 
 # Overview
 For this assignment, I created a memory game with React. This assignment required me to break up my application's UI into components,manage component state, and respond to user events.
